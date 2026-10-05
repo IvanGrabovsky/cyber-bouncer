@@ -1,0 +1,13 @@
+{
+  "name": "cyber-bouncer",
+  "version": "1.0.0",
+  "description": "Практичне завдання: Умовні та логічні оператори (Cyberpunk Bouncer AI)",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
